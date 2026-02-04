@@ -86,6 +86,8 @@ This section of the course focused on \*\*organizing Unity projects professional
 
 \*Workspace showing combined tool setup.\*
 
+and other tools 
+
 
 
 \### Layout 7
@@ -97,28 +99,6 @@ This section of the course focused on \*\*organizing Unity projects professional
 
 
 ---
-
-
-
-\## How to Use
-
-
-
-1\. \*\*Clone or download\*\* the repository.  
-
-2\. Open \*\*Unity Hub\*\* → Add Project → select the `Project/` folder → Open.  
-
-3\. Explore the layout and notes to see the professional setup and learned tools.
-
-
-
----
-
-
-
-\*\*Notes:\*\*  
-
-This setup demonstrates proper \*\*workspace organization\*\*, a critical skill before implementing actual game mechanics. Screenshots provide visual proof of editor mastery.
 
 
 
