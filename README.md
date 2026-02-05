@@ -42,7 +42,7 @@ Day 01 complete ✅
 
 ### Screenshots:
 ![Scene View](Assets/Docs/Day-02/scene_view.png)
-![Game View ](Assets/Docs/Day-02/game_view_16_9.png)
+![Game View ](Assets/Docs/Day-02/game_view.png)
 ![Materials](Assets/Docs/Day-02/materials_colors.png)
 ![Professional Layout](Assets/Docs/Day-02/professional_layout.png)
 
@@ -54,6 +54,7 @@ Day 01 complete ✅
 Day 02 complete ✅
 
 ----------------------------------------------------------------------------------------------------------------------
+
 
 
 
