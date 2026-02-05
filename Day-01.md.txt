@@ -1,0 +1,23 @@
+# Day 1 – Unity & Game Dev Basics
+
+## What I learned
+- What is Unity Game Engine
+- Difference between Scene View and Game View
+- What is GameObject
+- How to create 3D objects (Cube, Capsule, Sphere)
+- What is Transform (Position, Rotation, Scale)
+
+## New terms
+- GameObject: Basic object in Unity
+- Scene View: Used to design the game
+- Game View: Shows actual gameplay
+- Transform: Controls object position
+
+## Problems faced
+- Confusion between Scene and Game view
+- Camera angle understanding
+
+## Tomorrow's plan
+- Learn Materials
+- Change object colors
+- Explore Layout
