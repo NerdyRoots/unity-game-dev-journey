@@ -41,10 +41,10 @@ Day 01 complete ✅
 - Learned about Aspect Ratio (16:9 for Game View)
 
 ### Screenshots:
-![Scene View](Assets/Docs/Day-02/scene_view.png)
-![Game View ](Assets/Docs/Day-02/game_view.png)
-![Materials](Assets/Docs/Day-02/materials_colors.png)
-![Professional Layout](Assets/Docs/Day-02/professional_layout.png)
+![Scene View](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Scene%20View.png)
+![Game View ](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Game%20View.png)
+![Materials](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Materials.png)
+![Professional Layout](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Professional%20Layout.png)
 
 ### Tools:
 - Unity 6 LTS
@@ -54,6 +54,7 @@ Day 01 complete ✅
 Day 02 complete ✅
 
 ----------------------------------------------------------------------------------------------------------------------
+
 
 
 
