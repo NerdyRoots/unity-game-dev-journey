@@ -1,0 +1,22 @@
+# Day 2 – Materials, Layout & Scene Setup
+
+## What I learned
+- Creating Materials
+- Changing color of 3D objects
+- Assigning different materials to objects
+- Creating multiple 3D objects
+- Saving custom Unity Layout
+- Creating new Scene
+- Changing background color
+- Aspect Ratio (16:9 for Game View)
+
+## Key understanding
+- Materials control how objects look
+- Layout helps in faster workflow
+- Aspect ratio affects game display
+
+## Screenshots
+- Scene View
+- Game View
+- Materials
+- Professional Layout
