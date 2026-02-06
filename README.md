@@ -59,9 +59,15 @@ Day 02 complete ✅
 - Implemented normal speed movement
 - Tested different speed values in Inspector
 
-📸 Proof:
+### Screenshots:
 ![Player Position](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Position.png)
 ![RealTime Movement](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/RealTime.png)
+
+### Progress:
+Day 03 complete ✅
+------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
