@@ -63,9 +63,13 @@ Day 02 complete ✅
 ![Player Position](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Position.png)
 ![RealTime Movement](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/RealTime.png)
 
+Notes -
+![DAY 03](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Day-03.md.txt)
+
 ### Progress:
 Day 03 complete ✅
 ------------------------------------------------------------------------------------------------------------------------
+
 
 
 
