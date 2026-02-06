@@ -54,6 +54,14 @@ Day 01 complete ✅
 Day 02 complete ✅
 
 ----------------------------------------------------------------------------------------------------------------------
+## Day 3 – Player Movement 🎮
+- Learned player start position
+- Implemented normal speed movement
+- Tested different speed values in Inspector
+
+📸 Proof:
+![Player Position](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Position.png)
+![RealTime Movement](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/RealTime.png)
 
 
 
