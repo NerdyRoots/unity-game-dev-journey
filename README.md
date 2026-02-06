@@ -18,6 +18,26 @@
 added screenshot named as layout1 to layout7
 ans also addded screenshots of different tools.
 
+![layout1](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/layout1.png.png)
+![layout2](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/layout2.png.png)
+![layout3](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/layout3.png.png)
+![layout4](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/layout4.png.png)
+![layout5](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/layout5.png.png)
+![layout6](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/layout6.png.png)
+![layout7](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/layout7.png.png)
+
+### TOOLS
+![TOOL 1](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/viewtool.png.png)
+![TOOL 2](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/movetool.png.png)
+![TOOL 3](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Rotatetool.png.png)
+![TOOL 4](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Transformtool.png.png)
+![TOOL 5](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Scaletool.png.png)
+![TOOL 6](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Recttool.png.png)
+
+### NOTES 
+![DAY 01](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Day-01.md.txt)
+
+
 ### Tools & Setup:
 - Unity 6 LTS
 - Windows PC
@@ -46,6 +66,9 @@ Day 01 complete ✅
 ![Materials](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Materials.png)
 ![Professional Layout](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Professional%20Layout.png)
 
+### NOTES 
+![DAY 02](https://github.com/NerdyRoots/unity-game-dev-journey/blob/main/Day-02.md.txt)
+
 ### Tools:
 - Unity 6 LTS
 - Windows
@@ -69,6 +92,7 @@ Notes -
 ### Progress:
 Day 03 complete ✅
 ------------------------------------------------------------------------------------------------------------------------
+
 
 
 
