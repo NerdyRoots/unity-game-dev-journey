@@ -1,41 +1,34 @@
-# Day 3 – Player Movement (Unity + C#)
+Day 3 – Player Movement (Unity + C#)
+🎯 Topics Covered
 
-## 🎯 Topics Covered
-1. Player starting position
-2. Player movement using C# script
-3. Normal speed vs higher speed movement
+Player starting position
+Player movement using a C# script
+Normal speed vs higher speed movement
 
----
+📌 Player Starting Position
 
-## 📌 Player Starting Position
-- Player ki starting position Unity ke **Transform component** se set hoti hai
-- X, Y, Z values change karke initial spawn position control kar sakte hain
+The player’s starting position is set using the Transform component in Unity.
+By adjusting the X, Y, and Z values, we can control the player’s initial spawn position in the scene.
 
----
+📌 Player Movement Logic
 
-## 📌 Player Movement Logic
-- Movement C# script ke through control hota hai
-- `Update()` method use kiya gaya kyunki:
-  - Ye har frame me call hota hai
-  - Smooth movement ke liye best hota hai
+Player movement is controlled through a C# script.
+The Update() method is used because:
+It is called once per frame.
+It provides smooth and real-time movement.
 
----
+📌 Speed Control
 
-## 📌 Speed Control
-- Speed variable ko `public` rakha:
-  - Taaki Inspector se directly speed change kar sakein
-- Different speed values test ki:
-  - Normal speed
-  - Fast movement
+The speed variable is declared as public so it can be adjusted directly from the Inspector.
+Different speed values were tested:
+Normal movement speed
+Faster movement speed
 
----
+🧠 Key Learnings
+Tweaking values from the Inspector speeds up development.
+Speed control is essential for smooth frame-based movement.
+Player movement is a core gameplay mechanic.
 
-## 🧠 Key Learnings
-- Inspector se values tweak karna development fast karta hai
-- Frame-based movement me speed control important hota hai
-- Player movement gameplay ka core part hota hai
+✅ Status
 
----
-
-## ✅ Status
-- Implemented and tested successfully
+Implemented and tested successfully.
